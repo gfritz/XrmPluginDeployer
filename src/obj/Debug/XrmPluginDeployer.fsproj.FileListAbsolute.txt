@@ -1,0 +1,7 @@
+C:\git\XrmPluginDeployer\build\XrmPluginDeployer.exe.config
+C:\git\XrmPluginDeployer\build\XrmPluginDeployer.exe
+C:\git\XrmPluginDeployer\build\XrmPluginDeployer.pdb
+C:\git\XrmPluginDeployer\build\XrmPluginDeployer.XML
+C:\git\XrmPluginDeployer\src\obj\Debug\XrmPluginDeployer.fsprojResolveAssemblyReference.cache
+C:\git\XrmPluginDeployer\src\obj\Debug\XrmPluginDeployer.exe
+C:\git\XrmPluginDeployer\src\obj\Debug\XrmPluginDeployer.pdb
